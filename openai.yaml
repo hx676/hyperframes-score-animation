@@ -1,0 +1,4 @@
+interface:
+  display_name: "HyperFrames Score Animation"
+  short_description: "Build synced 3D score animations in HyperFrames"
+  default_prompt: "Use $hyperframes-score-animation to build or audit a HyperFrames 3D score animation from MusicXML, MIDI, and audio."
