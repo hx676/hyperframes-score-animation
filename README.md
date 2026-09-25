@@ -15,6 +15,18 @@ This repository contains a reusable Codex Skill for building deterministic Hyper
 
 示例内容包括真实五线谱、谱面上的多球分裂与汇聚、连续镜头、发光球、短拖尾和暗调纸面舞台。
 
+### Additional Case / 新案例
+
+来自 `小球+workbuddy.mp4` 的 15 秒高分辨率片段：
+
+- [Download the Workbuddy 15-second MP4 case](examples/hyperframes-score-animation-workbuddy-15s.mp4)
+- Source / 源视频: 2560x1440, 30 fps, H.264 + AAC
+- Clip length / 片段时长: 15 seconds
+
+This case is included as a visual reference for the score-following camera, luminous balls, multi-ball behavior, trails, and dark paper-stage treatment.
+
+这个案例用于展示曲谱跟随镜头、发光小球、多球表现、拖尾光效和暗调纸面舞台。
+
 ## What This Skill Does / Skill 作用
 
 ### 中文
@@ -308,6 +320,7 @@ references/
 examples/
   hyperframes-score-animation-15s.mp4
   hyperframes-score-animation-15s.gif
+  hyperframes-score-animation-workbuddy-15s.mp4
 README.md
 ```
 
